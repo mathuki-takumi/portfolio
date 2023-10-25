@@ -38,6 +38,11 @@
     animation-duration:5s;
   }
 
+  .Face{
+    width: 150px;
+height: auto;
+transform: translateX(130px);
+  }
   
   @keyframes slide {
     0% {
